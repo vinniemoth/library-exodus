@@ -22,7 +22,7 @@ import {
 
 export default function Nav() {
   return (
-    <nav className="h-screen overflow-y-auto scrollbar-thin">
+    <nav className="h-screen overflow-y-auto scrollbar-thin rounded-2xl">
       <div className="flex flex-col bg-zinc-900 text-white font-bold m-2 p-5 rounded-2xl gap-5">
         <Link href="/" className="flex items-center gap-5">
           <FaHouse size={25} />
