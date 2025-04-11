@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Lois Lowry",
+    "image": "https://m.media-amazon.com/images/S/amzn-author-media-prod/qlihsh9djs7cgggmdli6ka3cnh._SY450_CR0%2C0%2C450%2C450_.jpg",
+    "desc": "Lois Ann Lowry is an American writer. She is the author of many books for children and young adults, including The Giver Quartet, Number the Stars, the Anastasia series, and Rabble Starkey. She is known for writing about difficult subject matters, dystopias, and complex themes in works for young audiences."
+  },
+  {
+    "name": "Lauren Roberts",
+    "image": "https://m.media-amazon.com/images/S/amzn-author-media-prod/gmkq0j8c428atrrumf3t9egtko._SY450_CR0%2C0%2C450%2C450_.jpg",
+    "desc": "Lauren Roberts is an author of erotic fiction, known for exploring themes of desire and intense relationships. Her writing is engaging and sensitive, focusing on emotional and sexual dynamics."
+  },
+  {
+    "name": "Stephanie Garber",
+    "image": "https://m.media-amazon.com/images/S/amzn-author-media-prod/fofgbm6vokjil0obtkgg82mssk._SX450_CR0%2C0%2C450%2C450_.jpg",
+    "desc": "Stephanie Garber is a bestselling author known for her fantasy novels filled with magic, mystery, and romance. Her vivid storytelling and imaginative worlds have captivated readers around the globe."
+  },
+  {
+    "name": "Kristen Ciccarelli",
+    "image": "https://m.media-amazon.com/images/S/amzn-author-media-prod/m0nh6iandin27fv2pmpk1agq0u._SY450_CR0%2C0%2C450%2C450_.jpg",
+    "desc": "Kristen Ciccarelli is a fantasy author known for crafting rich worlds and strong, complex heroines. Her stories blend adventure, emotion, and mythology, captivating readers with lyrical prose and deep themes."
+  },
+  {
+    "name": "Allison Saft",
+    "image": "https://m.media-amazon.com/images/S/amzn-author-media-prod/q2960kthe4cb8n316nnmrnt2od._SY450_CR0%2C0%2C450%2C450_.jpg",
+    "desc": "Allison Saft is a bestselling author of romantic fantasy, known for her lush prose and emotionally rich stories. Her books blend magic, romance, and dark atmospheres, captivating readers with immersive worlds and heartfelt characters."
+  },
+  {
+    "name": "Tony Schwartz",
+    "image": "https://m.media-amazon.com/images/S/amzn-author-media-prod/v6f5ebffmr06mp63rm7189fimp._SX211_CR0%2C0%2C211%2C211_.jpg",
+    "desc": "Tony Schwartz is an author and business consultant best known for co-writing The Art of the Deal. He later founded The Energy Project, focusing on workplace performance and well-being. His work blends insights from psychology and productivity to help people thrive."
+  },
+  {
+    "name": "Scott Payne",
+    "image": "none",
+    "desc": "Scott Payne is a retired FBI agent known for infiltrating extremist groups across the U.S. In Code Name: Pale Horse, he recounts his undercover work exposing domestic terrorists and white supremacists."
+  },
+  {
+    "name": "Mark Hoppus",
+    "image": "none",
+    "desc": "Mark Hoppus is a musician best known as the bassist and co-lead vocalist of Blink-182. He’s also part of projects like +44 and Simple Creatures, and recently shared his journey through cancer recovery in his memoir Fahrenheit-182."
+  },
+  {
+    "name": "Vicky Nguyen",
+    "image": "https://m.media-amazon.com/images/S/amzn-author-media-prod/jlnojr5jnd6vpgav8jmdlpr93f._SY450_CR0%2C0%2C450%2C450_.jpg",
+    "desc": "Vicky Nguyen is an NBC News investigative and consumer correspondent. Born in Vietnam, she’s known for her award-winning journalism and her memoir Boat Baby, which tells her family’s immigration story."
+  },
+  {
+    "name": "Chris Whipple",
+    "image": "https://m.media-amazon.com/images/S/amzn-author-media-prod/r5o64k1umd90qj68n1p6cekuiv._SY450_CR112%2C0%2C450%2C450_.jpg",
+    "desc": "Chris Whipple is an author and journalist known for his books The Gatekeepers and The Spymasters. A former CBS 60 Minutes producer, he now focuses on political analysis, including his latest work on Joe Biden's White House."
+  },
+  {
+    "name": "Michael Lewis",
+    "image": "https://m.media-amazon.com/images/I/416Gidpo-oL._SX210_CR0%2C0%2C210%2C210_.jpg",
+    "desc": "Michael Lewis is a bestselling author known for books like Moneyball, The Big Short, and The Blind Side. He’s a contributing editor at Vanity Fair and recently wrote Going Infinite, about the rise and fall of Sam Bankman-Fried."
+  }
+]

@@ -2,6 +2,7 @@
   {
     "id": 1,
     "image": "https://m.media-amazon.com/images/I/91ZVf3kNrcL._SL1500_.jpg",
+    "driveUrl": "none",
     "name": "The Let Them Theory",
     "subtitle": "A Life-Changing Tool That Millions of People Can't Stop Talking About",
     "series": "none",
@@ -11,6 +12,7 @@
   {
     "id": 2,
     "image": "https://m.media-amazon.com/images/I/61o5Q8IIq4L._SL1500_.jpg",
+    "driveUrl": "none",
     "name": "Sunrise on the Reaping",
     "subtitle": "none",
     "series": "The Hunger Games",
@@ -20,6 +22,7 @@
   {
     "id": 3,
     "image": "https://m.media-amazon.com/images/I/51INlw91lcL._SY445_SX342_.jpg",
+    "driveUrl": "none",
     "name": "Uncharted",
     "subtitle": "How Trump Beat Biden, Harris, and the Odds in the Wildest Campaign in History",
     "series": "none",
@@ -29,6 +32,7 @@
   {
     "id": 4,
     "image": "https://m.media-amazon.com/images/I/91UN+1U66JL._SL1500_.jpg",
+    "driveUrl": "none",
     "name": "Fearless",
     "subtitle": "none",
     "series": "The Powerless Trilogy",
@@ -38,15 +42,17 @@
   {
     "id": 5,
     "image": "https://m.media-amazon.com/images/I/61tmNfB-wBL._SL1200_.jpg",
+    "driveUrl": "none",
     "name": "Trump: The Art of the Deal",
     "subtitle": "none",
     "series": "none",
-    "author": " Donald J. Trump, Tony Schwartz ",
+    "author": "Tony Schwartz",
     "category": "Biografias e Histórias Reais"
   },
   {
     "id": 6,
     "image": "https://m.media-amazon.com/images/I/716Gef+GR6L._SL1500_.jpg",
+    "driveUrl": "none",
     "name": "Who Is Government?",
     "subtitle": "The Untold Story of Public Service",
     "series": "none",
@@ -56,6 +62,7 @@
   {
     "id": 7,
     "image": "https://m.media-amazon.com/images/I/71e+uLtn0mL._SL1500_.jpg",
+    "driveUrl": "none",
     "name": "A Curse for True Love",
     "subtitle": "none",
     "series": "Once Upon a Broken Heart",
@@ -65,6 +72,7 @@
   {
     "id": 8,
     "image": "https://m.media-amazon.com/images/I/913pJu53rXL._SL1500_.jpg",
+    "driveUrl": "none",
     "name": "Rebel Witch",
     "subtitle": "none",
     "series": "Crimson Moth",
@@ -74,6 +82,7 @@
   {
     "id": 9,
     "image": "https://m.media-amazon.com/images/I/81-KLOJ2RtL._SL1500_.jpg",
+    "driveUrl": "none",
     "name": "Wings of Starlight",
     "subtitle": "none",
     "series": "Disney Fairies",
@@ -83,6 +92,7 @@
   {
     "id": 10,
     "image": "https://m.media-amazon.com/images/I/81Yq5WKWfSL._SL1500_.jpg",
+    "driveUrl": "https://drive.google.com/file/d/167SobzKFrXSrVpxKTXupbGlm4-L6VhZo/view?usp=drive_link",
     "name": "The Giver",
     "subtitle": "A Newbery Award Winner",
     "series": "Giver Quartet",
@@ -93,24 +103,27 @@
     "id": 11,
     "image": "https://m.media-amazon.com/images/I/818W7LzHQOL._SL1500_.jpg",
     "name": "Code Name: Pale Horse",
+    "driveUrl": "none",
     "subtitle": "How I Went Undercover to Expose America's Nazis",
     "series": "none",
-    "author": "Scott Payne, Michelle Shephard",
+    "author": "Scott Payne",
     "category": "Biografias e Histórias Reais"
   },
   {
     "id": 12,
     "image": "https://m.media-amazon.com/images/I/81Yw+5Su91L._SL1500_.jpg",
     "name": "Fahrenheit-182: A Memoir",
+    "driveUrl": "none",
     "subtitle": "none",
     "series": "none",
-    "author": "Mark Hoppus, Dan Ozzi",
+    "author": "Mark Hoppus",
     "category": "Biografias e Histórias Reais"
   },
   {
     "id": 13,
     "image": "https://m.media-amazon.com/images/I/711duw01bVL._SL1500_.jpg",
     "name": "Boat Baby: A Memoir",
+    "driveUrl": "none",
     "subtitle": "none",
     "series": "none",
     "author": "Vicky Nguyen",
