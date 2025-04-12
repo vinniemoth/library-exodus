@@ -57,7 +57,8 @@ export default function NowReading({ book }: { book: Book }) {
           height={250}
           alt=""
           src={book.image}
-          className="rounded-2xl"
+          draggable="false"
+          className="rounded-2xl select-none"
         />
         <div className="py-3">
           <h1 className="font-bold">{book.name}</h1>
@@ -68,10 +69,15 @@ export default function NowReading({ book }: { book: Book }) {
         <div className="text-zinc-900">
           <Image
             alt={book.author}
-            src={author?.image || DEFAULT_AUTHOR_IMAGE}
+            src={
+              author?.image && author?.image !== "none"
+                ? author.image
+                : DEFAULT_AUTHOR_IMAGE
+            }
             width={243}
             height={200}
             quality={100}
+            draggable="false"
             className="object-cover rounded-t-xl"
           />
           <div className="bg-zinc-800 text-white rounded-b-xl p-2 text-sm">
