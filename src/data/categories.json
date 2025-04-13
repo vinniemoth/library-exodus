@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Literature"
+  },
+  {
+    "id": 2,
+    "name": "Science Fiction"
+  },
+  {
+    "id": 3,
+    "name": "Fantasy"
+  },
+  {
+    "id": 4,
+    "name": "Romance"
+  },
+  {
+    "id": 5,
+    "name": "Mystery & Thriller"
+  },
+  {
+    "id": 6,
+    "name": "Horror"
+  },
+  {
+    "id": 7,
+    "name": "Non-Fiction"
+  },
+  {
+    "id": 8,
+    "name": "Biographies & Memoirs"
+  },
+  {
+    "id": 9,
+    "name": "History"
+  },
+  {
+    "id": 10,
+    "name": "Science & Nature"
+  },
+  {
+    "id": 11,
+    "name": "Technology"
+  },
+  {
+    "id": 12,
+    "name": "Self-Help"
+  },
+  {
+    "id": 13,
+    "name": "Business & Economics"
+  },
+  {
+    "id": 14,
+    "name": "Art & Photography"
+  },
+  {
+    "id": 15,
+    "name": "Travel"
+  },
+  {
+    "id": 16,
+    "name": "Cookbooks"
+  },
+  {
+    "id": 17,
+    "name": "Children's Books"
+  },
+  {
+    "id": 18,
+    "name": "Young Adult (YA)"
+  },
+  {
+    "id": 19,
+    "name": "Graphic Novels & Comics"
+  },
+  {
+    "id": 20,
+    "name": "Poetry"
+  }
+]

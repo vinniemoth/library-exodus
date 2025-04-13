@@ -18,22 +18,43 @@ import {
   FaPalette,
   FaUtensils,
   FaGraduationCap,
+  FaList,
 } from "react-icons/fa6";
 
-export default function Nav() {
+interface NavProps {
+  active: string;
+}
+
+export default function Nav({ active }: NavProps) {
   return (
     <nav className="h-screen overflow-y-auto scrollbar-thin rounded-2xl">
       <div className="flex flex-col bg-zinc-900 text-white font-bold m-2 p-5 rounded-2xl gap-5">
-        <Link href="/" className="flex items-center gap-5">
+        <Link
+          href="/"
+          className={`flex items-center gap-5 ${
+            active === "home" ? "text-white" : "text-zinc-400"
+          }`}
+        >
           <FaHouse size={25} />
           Home
         </Link>
         <Link
           href="/"
-          className="flex items-center text-zinc-400 gap-5 hover:text-zinc-50"
+          className={`flex items-center gap-5 ${
+            active === "search" ? "text-white" : "text-zinc-400"
+          }`}
         >
           <FaMagnifyingGlass size={25} />
           Search
+        </Link>
+        <Link
+          href="categories"
+          className={`flex items-center gap-5 ${
+            active === "categories" ? "text-white" : "text-zinc-400"
+          }`}
+        >
+          <FaList size={25} />
+          Categories
         </Link>
       </div>
       <div className="flex flex-col bg-zinc-900 text-zinc-400 font-bold m-2 p-5 rounded-2xl gap-5">

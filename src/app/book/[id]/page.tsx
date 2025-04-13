@@ -32,7 +32,7 @@ export default async function BookPage({ params }: BookPageProps) {
 
   return (
     <div className="text-white flex">
-      <Nav />
+      <Nav active="search" />
       <div className="flex flex-2 w-screen h-screen overflow-y-auto  scrollbar-thin rounded-2xl">
         <div className="bg-zinc-900 m-2 text-white font-bold rounded-2xl gap-5 w-full h-full">
           <PdfViewer file={book.driveUrl}></PdfViewer>
