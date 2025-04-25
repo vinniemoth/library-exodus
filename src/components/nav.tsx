@@ -19,6 +19,7 @@ import {
   FaUtensils,
   FaGraduationCap,
   FaList,
+  FaUser,
 } from "react-icons/fa6";
 
 interface NavProps {
@@ -32,16 +33,25 @@ export default function Nav({ active }: NavProps) {
         <Link
           href="/"
           className={`flex items-center gap-5 ${
-            active === "home" ? "text-white" : "text-zinc-400"
+            active === "home" ? "text-dusty-blue" : "text-zinc-400"
           }`}
         >
           <FaHouse size={25} />
           Home
         </Link>
         <Link
+          href="/auth"
+          className={`flex items-center gap-5 ${
+            active === "profile" ? "text-dusty-blue" : "text-zinc-400"
+          }`}
+        >
+          <FaUser size={25} />
+          Profile
+        </Link>
+        <Link
           href="/"
           className={`flex items-center gap-5 ${
-            active === "search" ? "text-white" : "text-zinc-400"
+            active === "search" ? "text-dusty-blue" : "text-zinc-400"
           }`}
         >
           <FaMagnifyingGlass size={25} />
@@ -50,7 +60,7 @@ export default function Nav({ active }: NavProps) {
         <Link
           href="categories"
           className={`flex items-center gap-5 ${
-            active === "categories" ? "text-white" : "text-zinc-400"
+            active === "categories" ? "text-dusty-blue" : "text-zinc-400"
           }`}
         >
           <FaList size={25} />

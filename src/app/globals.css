@@ -16,3 +16,7 @@
     background: #a8a8a8;
   }
 }
+
+@theme {
+  --color-dusty-blue: #35328f;
+}
